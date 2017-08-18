@@ -14,5 +14,4 @@ See the leaderboard on this dataset as in the paper:
 
 ![State of the Art](https://raw.githubusercontent.com/castorini/data/master/twitterPPDB/TwitterPPDBSOTA.png)
 
-Our Very Deep Pairwise Word Interaction Model (as published in NAACL2016) is currently the SOTA, but it should be easy to come up with new models to beat the NAACL16 model! Have FUN. 
-
+Our [Very Deep Pairwise Word Interaction Model](https://github.com/castorini/VDPWI-NN-Torch) (as published in NAACL2016) is currently the SOTA, but it should be easy to beat the NAACL16 model if you try! Looking Forward! Have FUN. 
